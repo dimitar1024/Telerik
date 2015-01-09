@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\09. PrintTriangle\bin\Debug\_09.PrintTriangle.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\09. PrintTriangle\bin\Debug\_09.PrintTriangle.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\09. PrintTriangle\bin\Debug\_09.PrintTriangle.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\09. PrintTriangle\obj\Debug\_09.PrintTriangle.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\09. PrintTriangle\obj\Debug\_09.PrintTriangle.pdb

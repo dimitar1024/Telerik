@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\22. WordsInTheString\bin\Debug\_22.WordsInTheString.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\22. WordsInTheString\bin\Debug\_22.WordsInTheString.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\22. WordsInTheString\bin\Debug\_22.WordsInTheString.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\22. WordsInTheString\obj\Debug\22. WordsInTheString.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\22. WordsInTheString\obj\Debug\_22.WordsInTheString.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\22. WordsInTheString\obj\Debug\_22.WordsInTheString.pdb

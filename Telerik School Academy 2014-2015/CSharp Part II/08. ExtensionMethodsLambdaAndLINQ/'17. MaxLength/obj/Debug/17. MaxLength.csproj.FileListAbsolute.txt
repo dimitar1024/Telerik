@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\'17. MaxLength\bin\Debug\_17.MaxLength.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\'17. MaxLength\bin\Debug\_17.MaxLength.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\'17. MaxLength\bin\Debug\_17.MaxLength.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\'17. MaxLength\obj\Debug\_17.MaxLength.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\'17. MaxLength\obj\Debug\_17.MaxLength.pdb

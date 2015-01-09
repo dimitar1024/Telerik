@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\08. SqrtOfNumbers\bin\Debug\_08.SqrtOfNumbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\08. SqrtOfNumbers\bin\Debug\_08.SqrtOfNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\08. SqrtOfNumbers\bin\Debug\_08.SqrtOfNumbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\08. SqrtOfNumbers\obj\Debug\_08.SqrtOfNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\08. SqrtOfNumbers\obj\Debug\_08.SqrtOfNumbers.pdb

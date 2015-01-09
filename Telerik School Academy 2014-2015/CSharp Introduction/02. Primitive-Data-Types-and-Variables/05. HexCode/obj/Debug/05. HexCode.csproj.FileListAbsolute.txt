@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\05. HexCode\bin\Debug\_05.HexCode.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\05. HexCode\bin\Debug\_05.HexCode.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\05. HexCode\bin\Debug\_05.HexCode.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\05. HexCode\obj\Debug\_05.HexCode.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\05. HexCode\obj\Debug\_05.HexCode.pdb

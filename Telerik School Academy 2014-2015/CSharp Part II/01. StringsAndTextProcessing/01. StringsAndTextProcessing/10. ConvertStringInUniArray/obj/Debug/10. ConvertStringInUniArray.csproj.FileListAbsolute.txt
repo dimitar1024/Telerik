@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\10. ConvertStringInUniArray\bin\Debug\_10.ConvertStringInUniArray.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\10. ConvertStringInUniArray\bin\Debug\_10.ConvertStringInUniArray.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\10. ConvertStringInUniArray\bin\Debug\_10.ConvertStringInUniArray.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\10. ConvertStringInUniArray\obj\Debug\_10.ConvertStringInUniArray.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\10. ConvertStringInUniArray\obj\Debug\_10.ConvertStringInUniArray.pdb

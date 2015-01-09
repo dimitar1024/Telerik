@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\15. HTML\bin\Debug\_15.HTML.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\15. HTML\bin\Debug\_15.HTML.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\15. HTML\bin\Debug\_15.HTML.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\15. HTML\obj\Debug\_15.HTML.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\15. HTML\obj\Debug\_15.HTML.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\15. HTML\obj\Debug\15. HTML.csprojResolveAssemblyReference.cache

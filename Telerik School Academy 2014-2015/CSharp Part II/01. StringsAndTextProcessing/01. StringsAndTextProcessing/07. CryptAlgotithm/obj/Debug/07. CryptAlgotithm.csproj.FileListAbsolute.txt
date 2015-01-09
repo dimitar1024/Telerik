@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\07. CryptAlgotithm\bin\Debug\_07.CryptAlgotithm.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\07. CryptAlgotithm\obj\Debug\07. CryptAlgotithm.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\07. CryptAlgotithm\bin\Debug\_07.CryptAlgotithm.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\07. CryptAlgotithm\bin\Debug\_07.CryptAlgotithm.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\07. CryptAlgotithm\obj\Debug\_07.CryptAlgotithm.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\07. CryptAlgotithm\obj\Debug\_07.CryptAlgotithm.pdb

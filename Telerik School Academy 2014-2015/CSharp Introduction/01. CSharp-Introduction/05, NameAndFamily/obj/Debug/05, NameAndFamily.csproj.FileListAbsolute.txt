@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\05, NameAndFamily\bin\Debug\05, NameAndFamily.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\05, NameAndFamily\bin\Debug\05, NameAndFamily.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\05, NameAndFamily\bin\Debug\05, NameAndFamily.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\05, NameAndFamily\obj\Debug\05, NameAndFamily.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\05, NameAndFamily\obj\Debug\05, NameAndFamily.pdb

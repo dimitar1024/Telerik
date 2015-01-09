@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

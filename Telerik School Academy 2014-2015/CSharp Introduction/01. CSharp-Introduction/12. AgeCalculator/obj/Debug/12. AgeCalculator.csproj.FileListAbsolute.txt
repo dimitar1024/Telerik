@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\12. AgeCalculator\bin\Debug\_12.AgeCalculator.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\12. AgeCalculator\bin\Debug\_12.AgeCalculator.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\12. AgeCalculator\bin\Debug\_12.AgeCalculator.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\12. AgeCalculator\obj\Debug\_12.AgeCalculator.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\12. AgeCalculator\obj\Debug\_12.AgeCalculator.pdb

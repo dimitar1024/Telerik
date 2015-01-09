@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\08. Multidimensional-Arrays\02. ThePlatform3x3\bin\Debug\_02.ThePlatform3x3.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\08. Multidimensional-Arrays\02. ThePlatform3x3\bin\Debug\_02.ThePlatform3x3.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\08. Multidimensional-Arrays\02. ThePlatform3x3\bin\Debug\_02.ThePlatform3x3.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\08. Multidimensional-Arrays\02. ThePlatform3x3\obj\Debug\_02.ThePlatform3x3.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\08. Multidimensional-Arrays\02. ThePlatform3x3\obj\Debug\_02.ThePlatform3x3.pdb

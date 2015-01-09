@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\12. MatrixOfNumbers\bin\Debug\_12.MatrixOfNumbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\12. MatrixOfNumbers\bin\Debug\_12.MatrixOfNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\12. MatrixOfNumbers\bin\Debug\_12.MatrixOfNumbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\12. MatrixOfNumbers\obj\Debug\_12.MatrixOfNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\12. MatrixOfNumbers\obj\Debug\_12.MatrixOfNumbers.pdb

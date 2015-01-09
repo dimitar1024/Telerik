@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\06. PadWithStars\bin\Debug\_06.PadWithStars.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\06. PadWithStars\bin\Debug\_06.PadWithStars.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\06. PadWithStars\bin\Debug\_06.PadWithStars.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\06. PadWithStars\obj\Debug\_06.PadWithStars.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\06. PadWithStars\obj\Debug\_06.PadWithStars.pdb

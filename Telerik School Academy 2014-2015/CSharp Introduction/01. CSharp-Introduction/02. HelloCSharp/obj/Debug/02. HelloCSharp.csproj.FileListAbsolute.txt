@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\02. HelloCSharp\bin\Debug\_02.HelloCSharp.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\02. HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\02. HelloCSharp\obj\Debug\_02.HelloCSharp.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\02. HelloCSharp\obj\Debug\_02.HelloCSharp.pdb

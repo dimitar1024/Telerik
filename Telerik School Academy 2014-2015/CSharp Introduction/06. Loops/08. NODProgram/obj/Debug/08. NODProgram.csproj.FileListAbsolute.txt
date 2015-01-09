@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\08. NODProgram\bin\Debug\_08.NODProgram.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\08. NODProgram\bin\Debug\_08.NODProgram.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\08. NODProgram\bin\Debug\_08.NODProgram.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\08. NODProgram\obj\Debug\_08.NODProgram.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\08. NODProgram\obj\Debug\_08.NODProgram.pdb

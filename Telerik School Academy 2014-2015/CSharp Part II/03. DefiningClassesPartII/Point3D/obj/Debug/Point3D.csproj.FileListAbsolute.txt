@@ -1,0 +1,2 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache

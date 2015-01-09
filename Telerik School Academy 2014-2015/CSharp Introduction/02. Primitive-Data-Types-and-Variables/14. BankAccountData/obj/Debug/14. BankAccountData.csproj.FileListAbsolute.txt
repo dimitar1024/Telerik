@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\14. BankAccountData\bin\Debug\_14.BankAccountData.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\14. BankAccountData\bin\Debug\_14.BankAccountData.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\14. BankAccountData\bin\Debug\_14.BankAccountData.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\14. BankAccountData\obj\Debug\_14.BankAccountData.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\14. BankAccountData\obj\Debug\_14.BankAccountData.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\11. ExchangeVariableValues\bin\Debug\_11.ExchangeVariableValues.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\11. ExchangeVariableValues\bin\Debug\_11.ExchangeVariableValues.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\11. ExchangeVariableValues\bin\Debug\_11.ExchangeVariableValues.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\11. ExchangeVariableValues\obj\Debug\_11.ExchangeVariableValues.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\11. ExchangeVariableValues\obj\Debug\_11.ExchangeVariableValues.pdb

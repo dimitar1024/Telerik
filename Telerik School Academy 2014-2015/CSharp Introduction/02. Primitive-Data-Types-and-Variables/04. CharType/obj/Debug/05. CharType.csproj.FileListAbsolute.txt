@@ -1,0 +1,3 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\04. CharType\bin\Debug\_04.CharType.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\04. CharType\obj\Debug\_04.CharType.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\04. CharType\obj\Debug\_04.CharType.pdb

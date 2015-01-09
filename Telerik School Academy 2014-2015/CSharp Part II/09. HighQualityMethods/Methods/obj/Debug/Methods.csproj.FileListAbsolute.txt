@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Methods\bin\Debug\Methods.exe
+C:\Users\dimitar1024\Desktop\Methods\bin\Debug\Methods.pdb
+C:\Users\dimitar1024\Desktop\Methods\obj\Debug\Methods.exe
+C:\Users\dimitar1024\Desktop\Methods\obj\Debug\Methods.pdb

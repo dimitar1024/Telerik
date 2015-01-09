@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\02. CirclePerimeterAndArea\bin\Debug\_02.CirclePerimeterAndArea.exe.config

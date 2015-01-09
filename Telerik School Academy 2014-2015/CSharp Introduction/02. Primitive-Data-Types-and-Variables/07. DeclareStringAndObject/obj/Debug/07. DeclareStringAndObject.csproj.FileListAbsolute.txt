@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\07. DeclareStringAndObject\bin\Debug\_07.DeclareStringAndObject.exe.config

@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\11. CoeficentsOnEquation\bin\Debug\_11.CoeficentsOnEquation.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\11. CoeficentsOnEquation\bin\Debug\_11.CoeficentsOnEquation.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\11. CoeficentsOnEquation\bin\Debug\_11.CoeficentsOnEquation.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\11. CoeficentsOnEquation\obj\Debug\11. CoeficentsOnEquation.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\11. CoeficentsOnEquation\obj\Debug\_11.CoeficentsOnEquation.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\11. CoeficentsOnEquation\obj\Debug\_11.CoeficentsOnEquation.pdb

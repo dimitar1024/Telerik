@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\12 AlfaBetaProgram\bin\Debug\12 AlfaBetaProgram.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\12 AlfaBetaProgram\bin\Debug\12 AlfaBetaProgram.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\12 AlfaBetaProgram\bin\Debug\12 AlfaBetaProgram.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\12 AlfaBetaProgram\obj\Debug\12 AlfaBetaProgram.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\12 AlfaBetaProgram\obj\Debug\12 AlfaBetaProgram.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\12 AlfaBetaProgram\obj\Debug\12 AlfaBetaProgram.pdb

@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\06. SequenceWithMaxSumOfElements\bin\Debug\_06.SequenceWithMaxSumOfElements.exe.config

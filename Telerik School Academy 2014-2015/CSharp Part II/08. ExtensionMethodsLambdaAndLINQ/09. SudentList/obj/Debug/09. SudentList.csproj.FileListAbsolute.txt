@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\09. SudentList\bin\Debug\_09.SudentList.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\09. SudentList\bin\Debug\_09.SudentList.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\09. SudentList\bin\Debug\_09.SudentList.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\09. SudentList\obj\Debug\09. SudentList.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\09. SudentList\obj\Debug\_09.SudentList.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\09. SudentList\obj\Debug\_09.SudentList.pdb

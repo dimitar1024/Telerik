@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\08. SequenceOfMaximalSumInGivenArray\bin\Debug\_08.SequenceOfMaximalSumInGivenArray.exe.config

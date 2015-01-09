@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\01. PrintNameMethod\bin\Debug\_01.PrintNameMethod.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\01. PrintNameMethod\bin\Debug\_01.PrintNameMethod.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\01. PrintNameMethod\bin\Debug\_01.PrintNameMethod.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\01. PrintNameMethod\obj\Debug\01. PrintNameMethod.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\01. PrintNameMethod\obj\Debug\_01.PrintNameMethod.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\01. PrintNameMethod\obj\Debug\_01.PrintNameMethod.pdb

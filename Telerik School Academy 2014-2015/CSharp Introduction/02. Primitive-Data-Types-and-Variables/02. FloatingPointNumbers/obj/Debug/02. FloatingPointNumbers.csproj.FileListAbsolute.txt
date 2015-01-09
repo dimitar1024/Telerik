@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\02. FloatingPointNumbers\bin\Debug\_02.FloatingPointNumbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\02. FloatingPointNumbers\bin\Debug\_02.FloatingPointNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\02. FloatingPointNumbers\bin\Debug\_02.FloatingPointNumbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\02. FloatingPointNumbers\obj\Debug\_02.FloatingPointNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\02. FloatingPointNumbers\obj\Debug\_02.FloatingPointNumbers.pdb

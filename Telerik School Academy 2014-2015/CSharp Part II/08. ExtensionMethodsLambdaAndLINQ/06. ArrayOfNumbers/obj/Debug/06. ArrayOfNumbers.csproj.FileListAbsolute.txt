@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\06. ArrayOfNumbers\bin\Debug\_06.ArrayOfNumbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\06. ArrayOfNumbers\bin\Debug\_06.ArrayOfNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\06. ArrayOfNumbers\bin\Debug\_06.ArrayOfNumbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\06. ArrayOfNumbers\obj\Debug\06. ArrayOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\06. ArrayOfNumbers\obj\Debug\_06.ArrayOfNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\06. ArrayOfNumbers\obj\Debug\_06.ArrayOfNumbers.pdb

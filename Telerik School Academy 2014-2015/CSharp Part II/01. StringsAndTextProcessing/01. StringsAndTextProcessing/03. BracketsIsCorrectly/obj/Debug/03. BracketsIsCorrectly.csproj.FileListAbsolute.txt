@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\03. BracketsIsCorrectly\bin\Debug\_03.BracketsIsCorrectly.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\03. BracketsIsCorrectly\obj\Debug\03. BracketsIsCorrectly.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\03. BracketsIsCorrectly\bin\Debug\_03.BracketsIsCorrectly.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\03. BracketsIsCorrectly\bin\Debug\_03.BracketsIsCorrectly.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\03. BracketsIsCorrectly\obj\Debug\_03.BracketsIsCorrectly.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\03. BracketsIsCorrectly\obj\Debug\_03.BracketsIsCorrectly.pdb

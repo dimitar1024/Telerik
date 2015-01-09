@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\05. NumberComparer\bin\Debug\_05.NumberComparer.exe.config

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\07. DateAndTime\bin\Debug\_07.DateAndTime.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\07. DateAndTime\bin\Debug\_07.DateAndTime.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\07. DateAndTime\bin\Debug\_07.DateAndTime.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\07. DateAndTime\obj\Debug\_07.DateAndTime.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\07. DateAndTime\obj\Debug\_07.DateAndTime.pdb

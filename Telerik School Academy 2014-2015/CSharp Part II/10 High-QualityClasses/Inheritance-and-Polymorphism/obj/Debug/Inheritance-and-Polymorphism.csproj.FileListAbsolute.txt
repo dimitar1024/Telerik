@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

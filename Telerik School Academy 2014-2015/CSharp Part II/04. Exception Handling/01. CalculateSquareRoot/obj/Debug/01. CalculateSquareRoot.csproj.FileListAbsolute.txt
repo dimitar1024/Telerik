@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\01. CalculateSquareRoot\bin\Debug\_01.CalculateSquareRoot.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\01. CalculateSquareRoot\bin\Debug\_01.CalculateSquareRoot.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\01. CalculateSquareRoot\bin\Debug\_01.CalculateSquareRoot.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\01. CalculateSquareRoot\obj\Debug\01. CalculateSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\01. CalculateSquareRoot\obj\Debug\_01.CalculateSquareRoot.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\01. CalculateSquareRoot\obj\Debug\_01.CalculateSquareRoot.pdb

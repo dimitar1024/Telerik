@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\14. BitExchangeAdvanced\bin\Debug\_14.BitExchangeAdvanced.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\14. BitExchangeAdvanced\bin\Debug\_14.BitExchangeAdvanced.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\14. BitExchangeAdvanced\bin\Debug\_14.BitExchangeAdvanced.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\14. BitExchangeAdvanced\obj\Debug\14. BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\14. BitExchangeAdvanced\obj\Debug\_14.BitExchangeAdvanced.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\14. BitExchangeAdvanced\obj\Debug\_14.BitExchangeAdvanced.pdb

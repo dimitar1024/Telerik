@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\13. TrailingZeroesInN\bin\Debug\_13.TrailingZeroesInN.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\13. TrailingZeroesInN\bin\Debug\_13.TrailingZeroesInN.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\13. TrailingZeroesInN\bin\Debug\_13.TrailingZeroesInN.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\13. TrailingZeroesInN\obj\Debug\_13.TrailingZeroesInN.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\13. TrailingZeroesInN\obj\Debug\_13.TrailingZeroesInN.pdb

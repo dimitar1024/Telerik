@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\07. Fibonaci numbers\bin\Debug\_07.Fibonaci_numbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\07. Fibonaci numbers\bin\Debug\_07.Fibonaci_numbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\07. Fibonaci numbers\bin\Debug\_07.Fibonaci_numbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\07. Fibonaci numbers\obj\Debug\07. Fibonaci numbers.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\07. Fibonaci numbers\obj\Debug\_07.Fibonaci_numbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Loops\07. Fibonaci numbers\obj\Debug\_07.Fibonaci_numbers.pdb

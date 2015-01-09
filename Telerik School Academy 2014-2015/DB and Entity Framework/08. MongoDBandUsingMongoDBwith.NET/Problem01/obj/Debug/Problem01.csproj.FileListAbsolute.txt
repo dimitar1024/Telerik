@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\DB and Entity Framework\08. MongoDBandUsingMongoDBwith.NET\Problem01\bin\Debug\Problem01.exe.config

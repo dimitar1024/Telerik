@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\07. ReverseNumbers\bin\Debug\_07.ReverseNumbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\07. ReverseNumbers\bin\Debug\_07.ReverseNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\07. ReverseNumbers\bin\Debug\_07.ReverseNumbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\07. ReverseNumbers\obj\Debug\_07.ReverseNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\07. ReverseNumbers\obj\Debug\_07.ReverseNumbers.pdb

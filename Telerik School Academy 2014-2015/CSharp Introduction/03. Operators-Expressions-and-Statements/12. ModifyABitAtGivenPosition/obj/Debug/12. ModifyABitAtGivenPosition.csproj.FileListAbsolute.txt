@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\12. ModifyABitAtGivenPosition\bin\Debug\_12.ModifyABitAtGivenPosition.exe.config

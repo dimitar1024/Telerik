@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Conditional Statements\05. PrintNumberFromZerotoNine\bin\Debug\_05.PrintNumberFromZerotoNine.exe.config

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\04 CountEqualNumber\bin\Debug\04 CountEqualNumber.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\04 CountEqualNumber\bin\Debug\04 CountEqualNumber.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\04 CountEqualNumber\bin\Debug\04 CountEqualNumber.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\04 CountEqualNumber\obj\Debug\04 CountEqualNumber.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\04 CountEqualNumber\obj\Debug\04 CountEqualNumber.pdb

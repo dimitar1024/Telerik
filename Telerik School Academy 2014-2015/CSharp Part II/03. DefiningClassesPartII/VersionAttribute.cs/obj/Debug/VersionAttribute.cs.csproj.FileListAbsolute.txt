@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\VersionAttribute.cs\bin\Debug\VersionAttribute.cs.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\VersionAttribute.cs\bin\Debug\VersionAttribute.cs.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\VersionAttribute.cs\bin\Debug\VersionAttribute.cs.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\VersionAttribute.cs\obj\Debug\VersionAttribute.cs.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\VersionAttribute.cs\obj\Debug\VersionAttribute.cs.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\VersionAttribute.cs\obj\Debug\VersionAttribute.cs.pdb

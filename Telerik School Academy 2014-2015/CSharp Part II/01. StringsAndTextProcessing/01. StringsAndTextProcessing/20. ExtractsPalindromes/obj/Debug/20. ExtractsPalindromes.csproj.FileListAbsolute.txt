@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\20. ExtractsPalindromes\bin\Debug\_20.ExtractsPalindromes.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\20. ExtractsPalindromes\bin\Debug\_20.ExtractsPalindromes.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\20. ExtractsPalindromes\bin\Debug\_20.ExtractsPalindromes.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\20. ExtractsPalindromes\obj\Debug\_20.ExtractsPalindromes.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\20. ExtractsPalindromes\obj\Debug\_20.ExtractsPalindromes.pdb

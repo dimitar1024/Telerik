@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\10. SumFractions\bin\Debug\_10.SumFractions.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\10. SumFractions\bin\Debug\_10.SumFractions.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\10. SumFractions\bin\Debug\_10.SumFractions.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\10. SumFractions\obj\Debug\_10.SumFractions.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\10. SumFractions\obj\Debug\_10.SumFractions.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\04. DownloadFile\bin\Debug\_04.DownloadFile.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\04. DownloadFile\bin\Debug\_04.DownloadFile.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\04. DownloadFile\bin\Debug\_04.DownloadFile.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\04. DownloadFile\obj\Debug\_04.DownloadFile.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\04. DownloadFile\obj\Debug\_04.DownloadFile.pdb

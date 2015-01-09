@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\QuickSort\obj\Debug\QuickSort.pdb

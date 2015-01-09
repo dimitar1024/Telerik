@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\13. ListOfProblems\bin\Debug\_13.ListOfProblems.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\13. ListOfProblems\bin\Debug\_13.ListOfProblems.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\13. ListOfProblems\bin\Debug\_13.ListOfProblems.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\13. ListOfProblems\obj\Debug\13. ListOfProblems.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\13. ListOfProblems\obj\Debug\_13.ListOfProblems.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\09. Methods\13. ListOfProblems\obj\Debug\_13.ListOfProblems.pdb

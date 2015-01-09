@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\03. PathFile\bin\Debug\_03.PathFile.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\03. PathFile\bin\Debug\_03.PathFile.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\03. PathFile\bin\Debug\_03.PathFile.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\03. PathFile\obj\Debug\03. PathFile.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\03. PathFile\obj\Debug\_03.PathFile.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\04. Exception Handling\03. PathFile\obj\Debug\_03.PathFile.pdb

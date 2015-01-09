@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\02. IEnumerableExtension\bin\Debug\_02.IEnumerableExtension.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\02. IEnumerableExtension\bin\Debug\_02.IEnumerableExtension.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\02. IEnumerableExtension\bin\Debug\_02.IEnumerableExtension.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\02. IEnumerableExtension\obj\Debug\_02.IEnumerableExtension.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\02. IEnumerableExtension\obj\Debug\_02.IEnumerableExtension.pdb

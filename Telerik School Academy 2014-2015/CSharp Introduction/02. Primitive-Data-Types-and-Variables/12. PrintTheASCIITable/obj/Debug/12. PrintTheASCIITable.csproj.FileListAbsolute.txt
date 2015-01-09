@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\12. PrintTheASCIITable\bin\Debug\_12.PrintTheASCIITable.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\12. PrintTheASCIITable\bin\Debug\_12.PrintTheASCIITable.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\12. PrintTheASCIITable\bin\Debug\_12.PrintTheASCIITable.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\12. PrintTheASCIITable\obj\Debug\_12.PrintTheASCIITable.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\12. PrintTheASCIITable\obj\Debug\_12.PrintTheASCIITable.pdb

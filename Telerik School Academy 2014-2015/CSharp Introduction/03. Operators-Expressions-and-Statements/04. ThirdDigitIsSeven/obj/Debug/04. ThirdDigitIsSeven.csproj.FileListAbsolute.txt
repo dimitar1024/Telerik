@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\04. ThirdDigitIsSeven\bin\Debug\_04.ThirdDigitIsSeven.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\04. ThirdDigitIsSeven\bin\Debug\_04.ThirdDigitIsSeven.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\04. ThirdDigitIsSeven\bin\Debug\_04.ThirdDigitIsSeven.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\04. ThirdDigitIsSeven\obj\Debug\_04.ThirdDigitIsSeven.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\04. ThirdDigitIsSeven\obj\Debug\_04.ThirdDigitIsSeven.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\03. CompareFloatingPointNum\bin\Debug\_03.CompareFloatingPointNum.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\03. CompareFloatingPointNum\bin\Debug\_03.CompareFloatingPointNum.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\03. CompareFloatingPointNum\bin\Debug\_03.CompareFloatingPointNum.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\03. CompareFloatingPointNum\obj\Debug\_03.CompareFloatingPointNum.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\03. CompareFloatingPointNum\obj\Debug\_03.CompareFloatingPointNum.pdb

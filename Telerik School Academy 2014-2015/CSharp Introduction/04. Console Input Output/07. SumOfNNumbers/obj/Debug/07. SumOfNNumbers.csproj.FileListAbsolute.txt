@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\07. SumOfNNumbers\bin\Debug\_07.SumOfNNumbers.exe.config

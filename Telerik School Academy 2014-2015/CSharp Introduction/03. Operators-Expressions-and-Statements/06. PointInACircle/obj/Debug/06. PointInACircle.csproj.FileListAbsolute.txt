@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\06. PointInACircle\bin\Debug\_06.PointInACircle.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\06. PointInACircle\bin\Debug\_06.PointInACircle.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\06. PointInACircle\bin\Debug\_06.PointInACircle.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\06. PointInACircle\obj\Debug\_06.PointInACircle.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\06. PointInACircle\obj\Debug\_06.PointInACircle.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\18. ЕxtractingЕmailАddresses\bin\Debug\_18.ЕxtractingЕmailАddresses.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\18. ЕxtractingЕmailАddresses\bin\Debug\_18.ЕxtractingЕmailАddresses.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\18. ЕxtractingЕmailАddresses\bin\Debug\_18.ЕxtractingЕmailАddresses.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\18. ЕxtractingЕmailАddresses\obj\Debug\_18.ЕxtractingЕmailАddresses.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\01. StringsAndTextProcessing\01. StringsAndTextProcessing\18. ЕxtractingЕmailАddresses\obj\Debug\_18.ЕxtractingЕmailАddresses.pdb

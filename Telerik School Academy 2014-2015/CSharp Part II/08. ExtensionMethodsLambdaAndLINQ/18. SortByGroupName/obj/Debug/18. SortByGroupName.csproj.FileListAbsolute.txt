@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\18. SortByGroupName\bin\Debug\_18.SortByGroupName.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\18. SortByGroupName\bin\Debug\_18.SortByGroupName.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\18. SortByGroupName\bin\Debug\_18.SortByGroupName.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\18. SortByGroupName\obj\Debug\_18.SortByGroupName.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\08. ExtensionMethodsLambdaAndLINQ\18. SortByGroupName\obj\Debug\_18.SortByGroupName.pdb

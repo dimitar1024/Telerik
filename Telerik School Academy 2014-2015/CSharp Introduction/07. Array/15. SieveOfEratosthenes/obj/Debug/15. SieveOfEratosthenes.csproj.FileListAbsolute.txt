@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.pdb

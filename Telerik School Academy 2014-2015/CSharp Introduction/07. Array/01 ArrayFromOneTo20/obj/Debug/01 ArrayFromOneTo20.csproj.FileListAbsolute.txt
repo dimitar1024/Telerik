@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\01 ArrayFromOneTo20\bin\Debug\01 ArrayFromOneTo20.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\01 ArrayFromOneTo20\bin\Debug\01 ArrayFromOneTo20.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\01 ArrayFromOneTo20\bin\Debug\01 ArrayFromOneTo20.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\01 ArrayFromOneTo20\obj\Debug\01 ArrayFromOneTo20.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\01 ArrayFromOneTo20\obj\Debug\01 ArrayFromOneTo20.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\07. Array\01 ArrayFromOneTo20\obj\Debug\01 ArrayFromOneTo20.pdb

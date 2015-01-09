@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Matrix\bin\Debug\Matrix.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Matrix\bin\Debug\Matrix.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Matrix\obj\Debug\Matrix.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\03. DefiningClassesPartII\Matrix\obj\Debug\Matrix.pdb

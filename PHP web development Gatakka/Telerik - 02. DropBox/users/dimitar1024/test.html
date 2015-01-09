@@ -1,0 +1,53 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        th {
+            height: 25px;
+            background-color: #234465;
+            color: white;
+            font-weight: bold;
+            border-right: #8596a7;
+        }
+
+            th:last-child {
+                border-right: none;
+            }
+
+        a {
+            color: black;
+        }
+
+            a:hover {
+                color: red;
+            }
+
+        td {
+            height: 15px;
+            background-color: #e2e2e2;
+            padding: 10px;
+        }
+
+            td:nth-child(2n+) {
+                background-color: #fff;
+            }
+    </style>
+</head>
+<body>
+    <form method="post">
+        <input type="text" name="categories" placeholder="enter categories:" />
+        <input type="text" name="tags" placeholder="enter tags:" />
+        <input type="text" name="months" placeholder="enter months:" />
+    </form>
+
+    <table>
+    <thead><tr><th>Id</th><th>Username</th><th>Email</th><th>Type</th><th>Result</th></tr></thead>
+    <tr><td>5</td><td>Gosho &amp; Kiro</td><td>gosho@gmail.com</td><td>onsite</td><td>400</td></tr>
+    <tr><td>1</td><td>Pesho</td><td>pesho.g@gmail.com</td><td>onsite</td><td>400</td></tr>
+    <tr><td>2</td><td>Mariika</td><td>mariika@gmail.com</td><td>online</td><td>350</td></tr>
+    <tr><td>6</td><td>Mincho</td><td>praznikov@vremeto.bg</td><td>online</td><td>50</td></tr>
+    <tr><td>3</td><td>Geri</td><td>geri@gmail.com</td><td>online</td><td>50</td></tr>
+    <tr><td>4</td><td>Pesho</td><td>peshkata@gmail.com</td><td>onsite</td><td>0</td></tr>
+    </table>
+</body>
+</html>

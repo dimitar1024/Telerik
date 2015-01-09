@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Console Input Output\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config

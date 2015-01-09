@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Part II\10 High-QualityClasses\Abstraction\obj\Debug\Abstraction.pdb

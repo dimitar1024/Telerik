@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\07. PrimeNumberCheck\bin\Debug\_07.PrimeNumberCheck.exe.config

@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\05. BitwiseExtractBitNo3\bin\Debug\_05.BitwiseExtractBitNo3.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\05. BitwiseExtractBitNo3\bin\Debug\_05.BitwiseExtractBitNo3.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\05. BitwiseExtractBitNo3\bin\Debug\_05.BitwiseExtractBitNo3.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\05. BitwiseExtractBitNo3\obj\Debug\_05.BitwiseExtractBitNo3.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Operators-Expressions-and-Statements\05. BitwiseExtractBitNo3\obj\Debug\_05.BitwiseExtractBitNo3.pdb

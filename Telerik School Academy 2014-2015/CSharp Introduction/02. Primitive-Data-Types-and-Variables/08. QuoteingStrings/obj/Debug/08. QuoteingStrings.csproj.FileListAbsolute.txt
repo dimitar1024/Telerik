@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\08. QuoteingStrings\bin\Debug\_08.QuoteingStrings.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\08. QuoteingStrings\bin\Debug\_08.QuoteingStrings.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\08. QuoteingStrings\bin\Debug\_08.QuoteingStrings.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\08. QuoteingStrings\obj\Debug\08. QuoteingStrings.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\08. QuoteingStrings\obj\Debug\_08.QuoteingStrings.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\Primitive-Data-Types-and-Variables\08. QuoteingStrings\obj\Debug\_08.QuoteingStrings.pdb

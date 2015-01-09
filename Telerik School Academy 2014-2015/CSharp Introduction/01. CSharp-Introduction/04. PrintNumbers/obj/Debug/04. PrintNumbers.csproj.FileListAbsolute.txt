@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\04. PrintNumbers\bin\Debug\_04.PrintNumbers.exe.config
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\04. PrintNumbers\bin\Debug\_04.PrintNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\04. PrintNumbers\bin\Debug\_04.PrintNumbers.pdb
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\04. PrintNumbers\obj\Debug\_04.PrintNumbers.exe
+C:\Users\dimitar1024\Desktop\Telerik 2014-2015\CSharp Introduction\CSharp-Introduction\04. PrintNumbers\obj\Debug\_04.PrintNumbers.pdb
